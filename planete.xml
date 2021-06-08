@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<planete>
+    <solarSystem idSystem="001" systemName="Soare">
+        <planeta idPlaneta="0001">
+            <Stea>Soare</Stea>
+            <Nume>Pamant</Nume>
+            <Descoperire>-</Descoperire>
+            <viata>true</viata>
+            <sateliti>
+                <satelit>Luna</satelit>
+            </sateliti>
+        </planeta>
+        <planeta idPlaneta="0002">
+            <Stea>Soare</Stea>
+            <Nume>Mercur</Nume>
+            <Descoperire>-1000</Descoperire>
+            <viata>false</viata>
+            <sateliti/>
+        </planeta>
+    </solarSystem>
+</planete>
